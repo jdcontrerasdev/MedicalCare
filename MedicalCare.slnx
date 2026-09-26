@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Database/">
+    <File Path="MedicalCare.sql" />
+  </Folder>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="MedicalCare.Application/MedicalCare.Application.csproj" />
+  <Project Path="MedicalCare.Infrastructure/MedicalCare.Infrastructure.csproj" />
+  <Project Path="MedicalCare.UI/MedicalCare.UI.csproj" />
+  <Project Path="☑ MedicalCare.Domain/☑ MedicalCare.Domain.csproj" />
+</Solution>
